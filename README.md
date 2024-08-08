@@ -1,4 +1,4 @@
-# Encrypt_Decrypt_Tool
+# Encrypt Decrypt Tool
 
 This repository contains a Python script with a Tkinter-based GUI for encrypting and decrypting folders. The script provides a simple and secure way to manage sensitive data by compressing and encrypting folders using OpenSSL.
 
