@@ -34,18 +34,18 @@ This repository contains a Python script with a Tkinter-based GUI for encrypting
    ```
 
 2. **Encrypt Folders**:
-   - Select the "Encrypt JST Data/Images" button to compress and encrypt your folders.
+   - Select the "Encrypt Data/Images" button to compress and encrypt your folders.
    - Enter the password when prompted.
 
 3. **Decrypt Folders**:
-   - Select the "Decrypt JST Data/Images" button to decrypt and extract your folders.
+   - Select the "Decrypt Data/Images" button to decrypt and extract your folders.
    - Enter the password used during encryption.
 
 4. **Delete Folders**:
-   - Select the "Delete Unencrypted JST Data/Images" button to securely delete the original, unencrypted folders.
+   - Select the "Delete Unencrypted Data/Images" button to securely delete the original, unencrypted folders.
 
 5. **Open Drive**:
-   - Select the "Open JST Drive" button to navigate to the drive containing your encrypted files.
+   - Select the "Open Drive" button to navigate to the drive containing your encrypted files.
 
 ## Customization
 
