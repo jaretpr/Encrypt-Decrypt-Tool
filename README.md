@@ -55,6 +55,10 @@ This repository contains a Python script with a Tkinter-based GUI for encrypting
 
 - **Encryption and Decryption Settings**:
   - The script uses AES-256 encryption with a PBKDF2 key derivation function. You can modify these settings if necessary.
+ 
+## Screenshots
+
+![Encrypt_UI](pics/Encrypt_UI.png)
 
 ## License
 
